@@ -1,2 +1,2 @@
-# text-wallpaper-creator
+# React-Custom-Hooks-TypeScript
 Created with CodeSandbox
